@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Studia/Semestr II/Algorytmy i Struktury danych lab/lab7/algorytm_wpisujacy/Pobranie.h
+iostream
+-
+
+E:/Studia/Semestr II/Algorytmy i Struktury danych lab/lab7/algorytm_wpisujacy/main.cpp
+iostream
+-
+Pobranie.h
+E:/Studia/Semestr II/Algorytmy i Struktury danych lab/lab7/algorytm_wpisujacy/Pobranie.h
+
